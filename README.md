@@ -1,8 +1,10 @@
 <h3 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px"/> My name is Mohamed Hisham</h3>
+<p align="left">
 <img width="478" height="354" alt="ezgif-451c797703edc0cf-ezgif com-optimize" src="https://github.com/user-attachments/assets/4d0168ad-590e-4b4a-a84c-3952ed23f218" />
+# 💫 About Me:
 <h3 align="center">Competitive Programmer & Computer Science Student</h3>
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-hisham-407784348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-hisham-407784348" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mohamed__hisham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamed__hisham" height="30" width="40" /></a>
