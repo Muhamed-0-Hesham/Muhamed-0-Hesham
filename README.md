@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hesham</h1>
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/a6e518cd-f2e1-4131-92b5-b27cefed5d9a">
-    <img src="https://github.com/user-attachments/assets/a6e518cd-f2e1-4131-92b5-b27cefed5d9a" width="800"/>
-  </a>
+  <video src="https://github.com/user-attachments/assets/a6e518cd-f2e1-4131-92b5-b27cefed5d9a"></video>
 </p>
+
 
 ---
 
