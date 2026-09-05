@@ -23,9 +23,6 @@
 <hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-ts.herokuapp.com?user=Muhamed-0-Hesham&theme=tokyonight
 </p>
