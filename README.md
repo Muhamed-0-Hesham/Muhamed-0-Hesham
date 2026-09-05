@@ -17,7 +17,7 @@
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00599C&height=3&width=150" />
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
