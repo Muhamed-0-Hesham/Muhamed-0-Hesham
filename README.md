@@ -1,17 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThhYXp0b2trdWV1cG83djJ0Z3dkaWIxbmd4a3gwNXl2Znl5MTV6cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"/>
-  
- ![]([https://komarev.com/ghpvc/?username=YaraHisham61&color=blueviolet](https://s4.ezgif.com/tmp/ezgif-4c13e4c12c05d586.gif))
-</div>
-
-
-
-<img width="478" height="354" alt="ezgif-451c797703edc0cf-ezgif com-optimize" src="https://github.com/user-attachments/assets/4d0168ad-590e-4b4a-a84c-3952ed23f218" />
-
-
-
-
 <h3 align="center">Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px"/> My name is Mohamed Hisham</h3>
+<img width="478" height="354" alt="ezgif-451c797703edc0cf-ezgif com-optimize" src="https://github.com/user-attachments/assets/4d0168ad-590e-4b4a-a84c-3952ed23f218" />
 <h3 align="center">Competitive Programmer & Computer Science Student</h3>
 
 <h3 align="left">Connect with me:</h3>
