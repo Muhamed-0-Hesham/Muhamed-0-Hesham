@@ -16,10 +16,15 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 <hr>
+</a>
+
  </p>
 
 
 ## 📊 GitHub Stats:
-<p align="center">
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamed-0-hesham&" alt="muhamed-0-hesham" /></p>
-</p>
+![]("https://github-readme-streak-stats.herokuapp.com/?user=muhamed-0-hesham&" alt="muhamed-0-hesham")<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaraHisham61&theme=midnight-purple&hide_border=true)](https://github.com/YaraHisham61/github-readme-stats)
+ &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=YaraHisham61&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="YaraHisham61" />
+
+
+
