@@ -29,5 +29,5 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Muhamed-0-Hesham&theme=tokyonight" alt="muhamed-0-hesham" />
+  <img src="https://streak-stats.demolab.com/?user=Muhamed-0-Hesham&theme=dark" alt="muhamed-0-hesham" />
 </p>
