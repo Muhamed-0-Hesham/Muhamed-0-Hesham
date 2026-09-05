@@ -23,6 +23,7 @@
 <hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
+![GitHub Streak](https://streak-stats.demolab.com?user=Muhamed-0-Hesham&theme=tokyonight&hide
 
 <p align="center">
   <img src="https://github-readme-streak-stats.com/?user=Muhamed-0-Hesham&theme=tokyonight
