@@ -20,11 +20,10 @@
 
  </p>
 
+<hr>
 
-## 📊 GitHub Stats:
-![]("https://github-readme-streak-stats.herokuapp.com/?user=muhamed-0-hesham&" alt="muhamed-0-hesham")<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YaraHisham61&theme=midnight-purple&hide_border=true)](https://github.com/YaraHisham61/github-readme-stats)
- &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=YaraHisham61&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="YaraHisham61" />
+<h2 align="center">📊 GitHub Stats</h2>
 
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.com/?user=Muhamed-0-Hesham&theme=tokyonight
+</p>
