@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4d0168ad-590e-4b4a-a84c-3952ed23f218" width="500" />
 </p>
+<h3 align="center">Competitive Programmer & Computer Science Student at MTI University 🎓. <br>
 
 ## 🌐 Socials:
 <p align="left">
