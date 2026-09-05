@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4d0168ad-590e-4b4a-a84c-3952ed23f218" width="500" />
 </p>
-<h3 align="center">Competitive Programmer & Computer Science Student at MTI University 🎓. <br>
+<h3 align="center">
+Competitive Programmer | Computer Science Student @ MTI University 🎓
+</h3>
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-hisham-407784348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-hisham-407784348" height="30" width="40" /></a>
