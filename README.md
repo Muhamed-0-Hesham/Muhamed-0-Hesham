@@ -25,7 +25,14 @@
 <p align="center">
   <img src="https://github-readme-ts.herokuapp.com?user=Muhamed-0-Hesham&theme=tokyonight
 </p>
+    
+<p align="center">
+  <img src="httpsreadme-streak-stats.herokuapp.com/?user=Muhamed-0-Hesham&theme=tokyonight
+</p>
+
 
 <p align="center">
-  <p align="center">
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamed-0-hesham&" alt="muhamed-0-hesham" /></p>
+
+
+
